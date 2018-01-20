@@ -2,4 +2,4 @@
 
 脚本中的本地路径要根据实际的NDK所在位置和FFmpeg源码所在位置进行替换。
 
-更详细的介绍请看博客：[Android录屏并利用FFmpeg转换成gif（二） 交叉编译FFmpeg源码]()
+更详细的介绍请看博客：[Android录屏并利用FFmpeg转换成gif（二） 交叉编译FFmpeg源码](http://blog.csdn.net/MingHuang2017/article/details/79112682)
